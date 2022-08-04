@@ -12,3 +12,6 @@ streamlit.text('Omega 3 & Blueberry Oatmeal')
 streamlit.text('Kale, Spinach & Rocket Smoothie')
 streamlit.text('\N{egg}Hard-Boiled Free-Range Egg')
 streamlit.text('Avacado Toast')
+
+
+streamlit.header('\N{watermelon,banana}Build your own Fruit Smoothie')
