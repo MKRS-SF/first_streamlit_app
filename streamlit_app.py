@@ -14,4 +14,4 @@ streamlit.text('\N{egg}Hard-Boiled Free-Range Egg')
 streamlit.text('Avacado Toast')
 
 
-streamlit.header('\N{watermelon,banana}Build your own Fruit Smoothie')
+streamlit.header('\N{watermelon}\N{banana}Build your own Fruit Smoothie\N{watermelon}\N{banana}')
